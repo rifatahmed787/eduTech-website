@@ -9,3 +9,13 @@ body {
 .nav-bg {
     background-color: #e3f2fd;
 }
+
+.carousel-body {
+    margin-top: 60px;
+}
+
+
+.image-height {
+    filter: brightness(60%);
+    height: 95%;
+}
